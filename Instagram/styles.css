@@ -1,0 +1,366 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #000000;
+}
+
+.A-02767{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.A-02767 img{
+    height: 450px;
+}
+
+.A-00783{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.A-01775{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.A-22783{
+    margin-top: 50px;
+    padding-bottom: 32px;
+    display: flex;
+    margin-left: 208px;
+    margin-right:208px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+
+
+
+.B-23877{
+    margin-top: 36px;
+    margin-bottom: 12px;
+}
+
+.B-23877 img{
+    width: 175px;
+    height: 51px;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+
+
+.B-00129{
+    width:100%;
+    max-width: 350px;
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+}
+
+.X-77010{
+    width: 100%;
+    margin-bottom:12px;
+}
+
+.F-00745{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.C-07332{
+    margin-top: 24px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.W-00001{
+    width: 100%;
+    max-width: 290px;
+    height: 38px;
+    background-color:#121212;
+    margin-bottom: 6px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-bottom-style:solid;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-width: 1px;
+    border-top-color:#555555;
+    border-bottom-color:#555555;
+    border-left-color:#555555;
+    border-right-color:#555555;
+    border-top-left-radius:3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius:3px ;
+    border-bottom-right-radius:3px ;
+}
+.W-00002{
+    width: 100%;
+    max-width: 290px;
+    height: 38px;
+    background-color:#121212;
+    margin-bottom: 6px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-bottom-style:solid;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-width: 1px;
+    border-top-color:#555555;
+    border-bottom-color:#555555;
+    border-left-color:#555555;
+    border-right-color:#555555;
+    border-top-left-radius:3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius:3px ;
+    border-bottom-right-radius:3px ;
+}
+
+
+.W-00003{
+    width: 100%;
+    max-width: 290px;
+    height: 38px;
+    margin-bottom: 6px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 6px;
+}
+
+
+input[type=text]{
+    width: 100%;
+    border: none;
+    padding: 9px 0 7px 8px;
+    background: none;
+    color: #fff;
+}
+input[type=password]{
+    width: 100%;
+    border: none;
+    padding: 9px 0 7px 8px;
+    background: none;
+    color: #fff;
+}
+
+input:focus{
+     outline: none;
+}
+
+button[type=submit]{
+    border:none;
+    background-color:#0095f6;
+    border-radius: 8px;
+    color: #fff;
+    padding: 7px 16px;
+    cursor: pointer;
+    width: 100%;
+    height:38px;
+}
+
+
+
+.L-01033{
+    margin-bottom: 20px;
+    margin-top: 14px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+
+.L-02033{
+    display: flex;
+}
+
+.L-left{
+    width: 120px;
+    height: 1px;
+    top: .45em;
+    position: relative;
+    background-color:#262626;
+}
+
+.O-c1{
+    margin-left: 18px;
+    margin-right: 18px;
+    font-weight: 500;
+    color: #a8a8a8;
+    font-size: 1.7em;
+    line-height: 15px;
+    font-family: monospace;
+}
+
+
+.L-right{
+    width: 120px;
+    height: 1px;
+    top: .45em;
+    position: relative;
+    background-color:#262626;
+}
+
+
+.S-V00745{
+    padding-right:4px;
+    margin-right: 4px;
+    width: 28px;
+    height: 20px;
+}
+
+.S-V00745, .fa-facebook{
+    color: #000000;
+    background-color: #3579ea;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 18px;
+}
+
+.S-V00745, .S-P00743{
+    color:#3579ea;
+    font-size:14px;
+    font-family:"Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+
+.E-I7883{
+    margin-top:25px;
+}
+
+
+.E-I7883 a{
+    text-decoration: none;
+    color:#e0f1ff;
+    font-size:14px;
+    font-family:sans-serif;
+}
+
+
+.B-U10055{
+    display: flex;
+    align-items: center;
+}
+
+
+.Z-72200{
+    width: 350px;
+    height: 61px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.G-74550 p{
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+.G-74550 p a{
+    text-decoration: none;
+    color: #0095f6;
+    line-height: 18px;
+    cursor: pointer;
+    font-family: system-ui;
+
+}
+
+.F0-77241{
+    margin-bottom: 52px;
+}
+
+.pageFooter{
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+
+.pageFooter .uiList{
+    display: flex;
+}
+
+.pageFooter .uiList li{
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 12px;
+}
+
+.pageFooter .uiList li a{
+    color: #a8a8a8;
+    font-size: 12px;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+
+.pageFooter .uiList li a:hover{
+    text-decoration: underline;
+    color: #a8a8a8;
+}
+
+.select{
+    cursor: pointer;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    border: none;
+    background: none;
+    padding: 2px;
+    color: #a8a8a8;
+}
+
+
+.copy{
+    margin-left: 16px;
+}
+.copyright{
+    color: #a8a8a8;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+
+
+@media only screen and (max-width:946px){
+    .A-00783{
+        
+    }
+}
+
+@media only screen and (max-width:946px){
+    .A-02767{
+        display: none;
+    }
+}
